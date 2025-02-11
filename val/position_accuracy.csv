@@ -1,0 +1,4 @@
+power_usage,environmental_noise,path_variability,positional_error
+50,10,0.1,0.05
+75,20,0.15,0.07
+100,30,0.2,0.1

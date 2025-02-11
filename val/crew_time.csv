@@ -1,0 +1,4 @@
+task_complexity,automation_level,crew_time_minutes
+simple,high,10
+moderate,medium,30
+complex,low,90
