@@ -1,0 +1,4 @@
+payload_mass,robot_power,terrain_complexity,travel_speed
+10,200,0,1.5
+15,250,1,1.2
+20,300,2,0.8

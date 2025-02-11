@@ -1,0 +1,4 @@
+payload_mass,robot_power,terrain_complexity,travel_speed,Predicted,Error (%)
+10,200,0,1.5,1,33.33333333333333
+15,250,1,1.2,1,16.666666666666664
+20,300,2,0.8,1,24.999999999999993
